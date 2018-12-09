@@ -1,10 +1,10 @@
 Welcome to my doc test
 
-- [topic1]
+- [topic1](topic1.md)
 - topic2
 
 
-*code block?
+##code block?
 ```xaml
 <Window x:Class = "HelloWorld.MainWindow" 
    xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
@@ -20,7 +20,7 @@ Welcome to my doc test
 </Window> 
 ```
 
-*csharp
+##csharp
 ```csharp
 using System;
 using System.Windows;
