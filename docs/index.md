@@ -1,7 +1,7 @@
 Welcome to my doc test
 
 - [topic1](topic1.md)
-- topic2
+- [topic2](topic2.md)
 
 
 ##code block?
